@@ -1,0 +1,14 @@
+C:\Users\User\Documents\EXs\EnumComp\bin\Debug\net7.0\EnumComp.exe
+C:\Users\User\Documents\EXs\EnumComp\bin\Debug\net7.0\EnumComp.deps.json
+C:\Users\User\Documents\EXs\EnumComp\bin\Debug\net7.0\EnumComp.runtimeconfig.json
+C:\Users\User\Documents\EXs\EnumComp\bin\Debug\net7.0\EnumComp.dll
+C:\Users\User\Documents\EXs\EnumComp\bin\Debug\net7.0\EnumComp.pdb
+C:\Users\User\Documents\EXs\EnumComp\obj\Debug\net7.0\EnumComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\EXs\EnumComp\obj\Debug\net7.0\EnumComp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\EXs\EnumComp\obj\Debug\net7.0\EnumComp.AssemblyInfo.cs
+C:\Users\User\Documents\EXs\EnumComp\obj\Debug\net7.0\EnumComp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\EXs\EnumComp\obj\Debug\net7.0\EnumComp.dll
+C:\Users\User\Documents\EXs\EnumComp\obj\Debug\net7.0\refint\EnumComp.dll
+C:\Users\User\Documents\EXs\EnumComp\obj\Debug\net7.0\EnumComp.pdb
+C:\Users\User\Documents\EXs\EnumComp\obj\Debug\net7.0\EnumComp.genruntimeconfig.cache
+C:\Users\User\Documents\EXs\EnumComp\obj\Debug\net7.0\ref\EnumComp.dll
